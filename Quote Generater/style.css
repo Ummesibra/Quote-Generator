@@ -1,0 +1,44 @@
+body{
+    background-image: linear-gradient(to right, rgb(207, 108, 231) , rgb(126, 186, 214));
+}
+h1{
+    color:rgb(198, 34, 219) ;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -10px;
+}
+.container{
+    padding: 11px;
+    background-color: rgb(233, 185, 201);
+    width: 300px;
+    height: 130px;
+    position: relative;
+    left: 100px;
+    top: 60px;
+    border-radius: 5px;
+}
+.btn{
+    background-color: lightblue;
+    border: none;
+    border-radius: 4px;
+    position: relative;
+    left: 80px;
+    top: 20px;
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn:hover{
+    background-color: rgb(175, 114, 231);
+}
+#paragraph{
+    color: rgb(0, 0, 0);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+#quote{
+    color: rgb(87, 87, 87);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 11px;
+}
